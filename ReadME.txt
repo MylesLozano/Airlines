@@ -2,6 +2,7 @@
 Make sure to remove <> and insert your own unique name.
 
 pip install django - installs django
+python -m venv venv - creates a venv for activation
 .\venv\Scripts\activate - activate virtual environment (.env)
 pip install psycopg2-binary - used to integrate postgres to Django
 pip install python-dotenv - used to hash crucial credentials
